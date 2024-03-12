@@ -1,7 +1,7 @@
 function Hero() {
   return (
-    <section className="relative z-10 overflow-hidden bg-[#54aabd] h-[80vh] ">
-      <div className="container-wrapper flex flex-col sm:flex-row  justify-between items-center  lg:drop-shadow-[0_0_10rem_white] mt-[8rem] ">
+    <section className="relative z-10 overflow-hidden bg-[#54aabd] h-auto sm:h-[80vh] ">
+      <div className="container-wrapper flex flex-col sm:flex-row  justify-between items-center  lg:drop-shadow-[0_0_10rem_white] mt-4 sm:mt-[8rem] ">
       
 
    
