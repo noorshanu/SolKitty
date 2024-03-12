@@ -20,45 +20,21 @@ function App() {
             <Navbar />
           </div>
 
-          <div className=" ">
-          {/* <section className="section">
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-            <span className="span"></span>
-        </section> */}
+          <div className="  mt-5">
             <Hero />
           </div>
           <div className=" py-2">
-            <BelowMark/>
-
+            <BelowMark />
           </div>
         </div>
 
         <div className="" id="about">
           <About />
         </div>
-        {/* <Roadmap/> */}
-        {/* <Product/> */}
 
-        {/* <Tokenomics/> */}
-        {/* <div className=" flex justify-center items-center py-4 gap-4">
-          <a href="https://birdeye.so/" target="_blank"><img src="images/bird.png" alt="" className=" bg-black rounded-xl px-2 h-[80px]" /></a>
-          <a href="https://raydium.io/" target="_blank"><img src="images/rayduim.svg" alt="" className=" bg-black rounded-xl px-4  py-3 h-[80px]" /></a>
-
-
-        </div> */}
         <div className=" mt-3">
-          <NFTs/>
-
+          <NFTs />
         </div>
- 
       </main>
 
       <div id="contact">
