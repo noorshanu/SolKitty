@@ -14,6 +14,14 @@ function Navbar() {
       <nav className="z-[100]  lg:bg-transparent mt-2 sm:mt-0 ">
         <div className="container-wrapper border-none sm:border-2 border-[#fff] shadow-lg bg-[#4a8896] h-14 lg:h-[5rem] 2xl:h-20 rounded-2xl flex justify-between lg:justify-normal lg:grid lg:grid-cols-[1fr_16rem_1fr] gap-8 items-center">
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
+           
+          <a
+              href="/"
+              onClick={() => setSidebarOpen(false)}
+              className="cursor-pointer text-sm xl:text-base uppercase"
+            >
+            Home
+            </a>
             <a
               href="/"
               onClick={() => setSidebarOpen(false)}
@@ -21,13 +29,7 @@ function Navbar() {
             >
               BUY NOW
             </a>
-            <a
-              href="#road"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base uppercase"
-            >
-             Roadmap
-            </a>
+     
           </div>
 
           <a href="/">
@@ -44,7 +46,7 @@ function Navbar() {
           >
           
           <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/dogeraces" target="_blank">
+             <a href="https://t.me/solkitty1" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[40px]" />
              </a>
          
@@ -56,20 +58,17 @@ function Navbar() {
           </div>
 
           <div className="items-center justify-evenly text-base font-medium text-white hidden lg:flex">
-            <a
-              href="#token"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base uppercase"
-            >
-               TOKENOMICS
-            </a>
-            <a
-              href="#prod"
-              onClick={() => setSidebarOpen(false)}
-              className="cursor-pointer text-sm xl:text-base uppercase"
-            >
-           Products
-            </a>
+    
+            <div className="flex items-center gap-5 justify-center lg:justify-end">
+             <a href="https://t.me/solkitty1" target="_blank">
+              <img src="TELEGRAM.png" alt="" className="w-auto h-[40px]" />
+             </a>
+         
+
+             <a href="https://twitter.com/kolsitty1" target="_blank">
+              <img src="X.png" alt="" className="w-auto h-[40px]" />
+             </a>
+            </div>
           </div>
         </div>
       </nav>

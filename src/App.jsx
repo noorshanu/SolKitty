@@ -1,14 +1,12 @@
 import Navbar from "components/Navbar";
-import About from "sections/About";
+
 import BelowMark from "sections/BelowMark";
-// import FeaturedOn from "sections/Partners";
+
 import Hero from "sections/Hero";
 import JoinCommunity from "sections/JoinCommunity";
 import NFTs from "sections/NFTs";
 
-import Product from "sections/Product";
-import Roadmap from "sections/Roadmap";
-import Tokenomics from "sections/Tokenomics";
+
 // import Tokenomics from "sections/Tokenomics";
 
 function App() {
@@ -24,21 +22,21 @@ function App() {
             <Hero />
           </div>
 
-          <div className=" py-2">
+          {/* <div className=" py-2">
            <Product/>
-          </div>
+          </div> */}
           <div className=" py-2">
             <BelowMark />
           </div>
         </div>
 
-        <div className="" id="about">
+        {/* <div className="" id="about">
           <About />
-        </div>
+        </div> */}
 
-        <div className=" mt-3">
+        {/* <div className=" mt-3">
           <NFTs />
-        </div>
+        </div> */}
       </main>
 
       <div id="contact">
