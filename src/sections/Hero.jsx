@@ -17,7 +17,7 @@ function Hero() {
            <br />
            With its irresistible charm, boundless energy, and unbeatable cuteness, SolKitty is the ultimate feline sensation on the Solana blockchain
           </p>
-          <a href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1" target="_BLANK" className="max-w-3xl  text-[#f1f1f1] text-xl mx-auto my-2">
+          <a href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1" target="_BLANK" className="max-w-3xl  text-[#000000] font-medium  text-xl mx-auto my-2">
             Contract : EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1
           </a>
           <div className=" hidden   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
