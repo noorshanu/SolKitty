@@ -51,7 +51,7 @@ function Navbar() {
              </a>
          
 
-             <a href="https://twitter.com/kolsitty1" target="_blank">
+             <a href="https://twitter.com/Sol_kitty1" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
@@ -65,7 +65,7 @@ function Navbar() {
              </a>
          
 
-             <a href="https://twitter.com/kolsitty1" target="_blank">
+             <a href="https://twitter.com/Sol_kitty1" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
