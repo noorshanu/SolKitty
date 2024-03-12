@@ -49,7 +49,7 @@ function Navbar() {
              </a>
          
 
-             <a href="https://twitter.com/dogerace1" target="_blank">
+             <a href="https://twitter.com/kolsitty1" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
