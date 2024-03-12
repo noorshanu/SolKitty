@@ -7,7 +7,7 @@ function Product() {
       <div className="container-wrapper">
         <div className="text-center">
           <Title
-            className="text-[#8431d6]"
+            className="text-[#000000]"
             data-aos="fade-up"
             data-aos-offset="300"
             data-aos-duration="1500"
@@ -27,35 +27,31 @@ function Product() {
      
 
           <div className=" text-center">
-            <img
-              src="images/about/img3.jpeg"
-              alt=""
-              className="h-auto sm:h-[200px]  w-[200px] sm:w-auto mx-auto rounded-lg border-4"
-            />
+          <p>1. NFT Collection: Featuring stunning artwork, playful animations, and cute kitty memes.
+2. Gaming Experiences: Chase laser pointers, bat at yarn balls, and explore virtual catnip fields in meow-tastic games.
+3. Endless Cuteness: Whether you're a seasoned collector or just starting out, there's something for every cat lover in the SolKitty ecosystem.</p>
             <h3 className="font-dream text-lg py-4 ">
               SolSon  Staking
             </h3>
           </div>
-          <div className=" text-center">
-            <img
-              src="images/about/img4.jpeg"
-              alt=""
-              className="h-auto sm:h-[200px]  w-[200px] sm:w-auto mx-auto rounded-lg border-4"
-            />
-            <h3 className="font-dream text-lg py-4 ">
-            further utility
-            </h3>
-          </div>
+      
 
-          <div className=" text-center">
+          <div className=" text-center flex items-center gap-2">
             <img
-              src="images/about/img6.jpeg"
+              src="images/about/img5.jpg"
               alt=""
               className="h-auto sm:h-[200px]  w-[200px] sm:w-auto mx-auto rounded-lg border-4"
             />
-            <h3 className="font-dream text-lg py-4 ">
-             SolSon NFT
-            </h3>
+            <img
+              src="images/about/img1.jpg"
+              alt=""
+              className="h-auto sm:h-[200px]  w-[200px] sm:w-auto mx-auto rounded-lg border-4"
+            />
+              <img
+              src="images/about/img3.jpg"
+              alt=""
+              className="h-auto sm:h-[200px]  w-[200px] sm:w-auto mx-auto rounded-lg border-4"
+            />
           </div>
       
         </div>

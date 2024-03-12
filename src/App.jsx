@@ -5,8 +5,8 @@ import BelowMark from "sections/BelowMark";
 import Hero from "sections/Hero";
 import JoinCommunity from "sections/JoinCommunity";
 import NFTs from "sections/NFTs";
+
 import Product from "sections/Product";
-// import Product from "sections/Product";
 import Roadmap from "sections/Roadmap";
 import Tokenomics from "sections/Tokenomics";
 // import Tokenomics from "sections/Tokenomics";
@@ -22,6 +22,10 @@ function App() {
 
           <div className="  mt-5">
             <Hero />
+          </div>
+
+          <div className=" py-2">
+           <Product/>
           </div>
           <div className=" py-2">
             <BelowMark />
