@@ -14,11 +14,11 @@ function Hero() {
 
           </p>
           <a
-            href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1"
+            href="https://solscan.io/token/EHn1PjN3ea1qCUD8E6yHCSUntRxxcDZfPEBPn8veX19L"
             target="_BLANK"
             className="  text-[#000000] font-bold text-base   py-4"
           >
-            Contract : EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1
+            Contract : EHn1PjN3ea1qCUD8E6yHCSUntRxxcDZfPEBPn8veX19L
           </a>
           <div className=" hidden   sm:flex  justify-start items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
