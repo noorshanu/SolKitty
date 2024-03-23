@@ -25,7 +25,7 @@ function Hero() {
           <div className=" hidden   sm:flex  justify-start items-center gap-6 mt-7 sm:mt-8">
             <div className=" relative">
               <a
-                href="https://raydium.io/"
+                href="https://t.me/marie_soll"
                 target="_blank"
                 className="  btn-main  font-bold text-sm sm:text-xl rounded-full px-12 py-2"
               >

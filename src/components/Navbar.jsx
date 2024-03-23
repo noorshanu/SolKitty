@@ -60,12 +60,12 @@ function Navbar() {
           <div className="items-center justify-evenly text-base font-medium text-black hidden lg:flex">
     
             <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="https://t.me/solkitty1" target="_blank">
+             <a href="https://t.me/marie_soll" target="_blank">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[40px]" />
              </a>
          
 
-             <a href="https://twitter.com/Sol_kitty1" target="_blank">
+             <a href="https://twitter.com/Marie_sol_1" target="_blank">
               <img src="X.png" alt="" className="w-auto h-[40px]" />
              </a>
             </div>
