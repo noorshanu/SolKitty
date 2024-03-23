@@ -5,15 +5,13 @@ function Hero() {
         <div className="  mt-4 sm:mt-8 w-full">
           <h1 className=" text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">
             {" "}
-            Welcome to MARIESOL : The cutest kitty on Solana! 🐱{" "}
+            MarieSol combines Cuteness with meme Purr-fection!
           </h1>
           <p className=" max-w-4xl  text-[#000000] text-xl mx-auto mb-3">
-            MARIESOL is more than just a meme coin - it's a fluffy, fun-filled
-            adventure that spreads joy in the crypto world!
+          Step into the purrfect world of MarieSol, where every paw-some adventure is fueled by the irresistible charm of Marie the cat! 🐾
             <br />
-            With its irresistible charm, boundless energy, and unbeatable
-            cuteness, MARIESOL is the ultimate feline sensation on the Solana
-            blockchain
+            Meet Marie, the mischievous feline with a heart as big as her curiosity. Leading our meme community with grace and influence, she's the purr-fect embodiment of all things cute and honest.
+
           </p>
           <a
             href="https://solscan.io/token/EKvoMQ3pEEBrYWU34NqU2cFbcBJ6tMWhmRmSM2FcNrd1"

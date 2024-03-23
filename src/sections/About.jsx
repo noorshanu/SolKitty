@@ -14,15 +14,11 @@ function About() {
           <div className=" w-full">
           <h1 className=" text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">
             {" "}
-            Welcome to MARIESOL : The cutest kitty on Solana! 🐱{" "}
+            Welcome to MARIESOL : The cutest cat on Solana! 🐱{" "}
           </h1>
           <p className=" max-w-4xl  text-[#000000] text-xl mx-auto mb-3">
-            MARIESOL is more than just a meme coin - it's a fluffy, fun-filled
-            adventure that spreads joy in the crypto world!
-            <br />
-            With its irresistible charm, boundless energy, and unbeatable
-            cuteness, MARIESOL is the ultimate feline sensation on the Solana
-            blockchain
+          MarieSol Meme Coin isn't an average meme – it's a meow-nificent journey filled with excitement and fun!  Our paw-some coin is powered by the Solana blockchain, ensuring lightning-fast transactions and a seamless experience for all our fellow cat lovers.
+
           </p>
           </div>
 
