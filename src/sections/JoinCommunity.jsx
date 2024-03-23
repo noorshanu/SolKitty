@@ -61,8 +61,8 @@ function JoinCommunity() {
         </div> */}
 
         <div className="flex  items-center justify-center ">
-          <p className="text-center text-sm  font-bold text-white">
-            All rights reserved | by SolKitty  2023-24
+          <p className="text-center text-sm  font-bold text-black">
+            All rights reserved | by MariSol  2023-24
           </p>
         </div>
       </div>

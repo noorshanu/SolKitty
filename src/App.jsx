@@ -1,4 +1,5 @@
 import Navbar from "components/Navbar";
+import About from "sections/About";
 
 import BelowMark from "sections/BelowMark";
 
@@ -22,11 +23,19 @@ function App() {
             <Hero />
           </div>
 
+
+
           {/* <div className=" py-2">
            <Product/>
           </div> */}
           <div className=" py-2">
             <BelowMark />
+          </div>
+
+
+          <div className=" mt-5">
+            <About/>
+
           </div>
         </div>
 

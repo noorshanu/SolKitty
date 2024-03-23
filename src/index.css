@@ -45,7 +45,7 @@
 
   html,
   body {
-    @apply bg-[#54aabd] text-black ;
+    @apply bg-[#fddae5] text-black ;
   }
 
   .container-wrapper {
@@ -313,8 +313,8 @@ transform: scale(0.65);
 
 .btn-main{
   border: 1px solid black;
-  background: linear-gradient(101.81deg, #fa7e3f -4.52%, #f9c617 54.5%, #94321e 101.41%);
-    color: rgb(255, 255, 255);
+  background: #eb99bd;
+    color: rgb(0, 0, 0);
 }
 
 
