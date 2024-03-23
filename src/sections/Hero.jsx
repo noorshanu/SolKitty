@@ -8,10 +8,12 @@ function Hero() {
             MarieSol combines Cuteness with meme Purr-fection!
           </h1>
           <p className=" max-w-4xl  text-[#000000] text-xl mx-auto mb-3">
-          Step into the purrfect world of MarieSol, where every paw-some adventure is fueled by the irresistible charm of Marie the cat! 🐾
+            Step into the purrfect world of MarieSol, where every paw-some
+            adventure is fueled by the irresistible charm of Marie the cat! 🐾
             <br />
-            Meet Marie, the mischievous feline with a heart as big as her curiosity. Leading our meme community with grace and influence, she's the purr-fect embodiment of all things cute and honest.
-
+            Meet Marie, the mischievous feline with a heart as big as her
+            curiosity. Leading our meme community with grace and influence,
+            she's the purr-fect embodiment of all things cute and honest.
           </p>
           <a
             href="https://solscan.io/token/EHn1PjN3ea1qCUD8E6yHCSUntRxxcDZfPEBPn8veX19L"
@@ -32,7 +34,7 @@ function Hero() {
             </div>
 
             <div className=" relative">
-              <a href="/" target="_blank" className=" ">
+              <a href="https://www.dextools.io/app/en/solana/pair-explorer/5xWDgwcFSdVEC33qfpGgJrCN9kCWgLqvjBSBTCWURzMt?t=1711200471804" target="_blank" className=" ">
                 <img
                   src="images/dextool.png"
                   alt=""
